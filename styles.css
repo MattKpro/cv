@@ -5,6 +5,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: white;
 }
 .navbar {
     display: flex;
@@ -47,4 +48,36 @@ h1 {
 a {
     color: blueviolet;
     text-decoration: dotted;
+}
+
+img {
+    width: 200px;
+    margin: auto;
+    padding: auto;
+    /* display: block;
+    margin-left: auto;
+    margin-right: auto;*/
+    
+    
+    border-radius: 20px;
+    
+}
+
+.prettiest-boy {
+    text-align: center;
+    color: darkolivegreen;
+}
+
+#me-img {
+    width: 110px;
+    border-radius: 100px;
+}
+
+#boy-img {
+    width: 500px;
+}
+
+#work-img {
+    width: 500px;
+    padding-top: 40px;
 }
